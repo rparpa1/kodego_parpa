@@ -17,7 +17,7 @@ fun main () {
     var strEmailaddress: String = ""
     var strSocialSecurityNumber: String = ""
     var youAmerican = ""
-    var beenConvictedofafelony = ""
+    var beenConvicte = ""
 
 println("Last Name :$strLastname")
     print("Citizen" :$)
