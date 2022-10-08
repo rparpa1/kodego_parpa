@@ -1,25 +1,34 @@
 fun main () {
 
-    var strPositionforApplying = ""
-    var strDate = ""
-    var strDesiredSalary = ""
+    var positionforApplying = ""
+    var date = ""
+    var desiredSalary = ""
 
     // Personal Information
-    var strLastname: String = ""
-    var strFirstname: String = ""
-    var strMiddle: String = ""
-    var strAddress: String = ""
-    var strCity: String = ""
-    var strState: String = ""
-    var strZipcode: String = ""
-    var strHomeNumber: String = ""
-    var strcellphone: String = ""
-    var strEmailaddress: String = ""
+    var lastname: String = ""
+    var firstname: String = ""
+    var middle: String = ""
+    var address: String = ""
+    var city: String = ""
+    var state: String = ""
+    var zipcode: String = ""
+    var homeNumber: String = ""
+    var cellphone: String = ""
+    var emailAddress: String = ""
     var strSocialSecurityNumber: String = ""
     var youAmerican = ""
     var beenConvicted = ""
 
-println("Last Name :$strLastname")
+    //Education
+    var schoolname: String = ""
+    var location = ""
+    var yearsAttended = ""
+    var degreeReceived = ""
+    var major = ""
+    var trainingheld = ""
+
+
+println("Last Name :$lastname")
     print("Citizen" :$)
 
 }
