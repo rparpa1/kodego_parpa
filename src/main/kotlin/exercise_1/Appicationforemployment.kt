@@ -29,6 +29,5 @@ fun main () {
 
 
 println("Last Name :$lastname")
-    print("Citizen" :$)
 
 }
