@@ -11,5 +11,5 @@ fun main() {
     var studentFailed = ""
 
 
-//    println("courseName = $listOfStudentsEntrolled")
+//    logger.info {"courseName = $courseName"}
 }
